@@ -1,4 +1,4 @@
-FROM golang:1.17.3
+FROM golang:1.17.9
 LABEL maintainer="Thomas Rabaix <rabaix@ekino.com>"
 
 ARG CI_HELPER_VERSION
