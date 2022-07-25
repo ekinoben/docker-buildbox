@@ -1,4 +1,4 @@
-FROM alpine:3.14.3
+FROM alpine:3.16.1
 LABEL maintainer="Thomas Rabaix <rabaix@ekino.com>"
 
 ARG SONARSCANNER_VERSION
