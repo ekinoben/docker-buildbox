@@ -1,4 +1,4 @@
-FROM eclipse-temurin:11.0.12_7-jdk-focal
+FROM eclipse-temurin:18.0.2_9-jdk-focal
 LABEL maintainer="Stephane Leclercq <leclercq@ekino.com>"
 
 ENV DEBIAN_FRONTEND=noninteractive \
